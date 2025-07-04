@@ -1,7 +1,7 @@
 # hpvxneutra
 Cross neutralizing properties of an AS04-adjuvanted bivalent HPV vaccine (Cervarix®, GSK ) compared to a aluminiumhydroxyphosphate sulphate-adjuvanted tetravalent HPV vaccine (Gardasil®, Merck) in HPV-naive, sexually inactive, pre-pubertal, female, monozygous twins
 
-"CytokinesFigure"
+"CytokineFigure"
 Describes the generation of Figure 1G.
 
 "nAbTiters"
